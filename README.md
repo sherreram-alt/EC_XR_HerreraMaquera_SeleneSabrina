@@ -21,3 +21,4 @@ Proyecto de Realidad Virtual desarrollado en Unity utilizando Universal Render P
 
 ## 3. Video Demostrativo
 - **Enlace al video de prueba:** [Ver Video en Google Drive](PEGA_AQUI_TU_LINK_DE_GOOGLE_DRIVE)
+https://docs.google.com/document/d/1CeBN8W0DXnn3iMVk911pYDLvEsmZWYh1Ly4Z-plHnGY/edit?tab=t.0
